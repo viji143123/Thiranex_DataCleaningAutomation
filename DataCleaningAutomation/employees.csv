@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Salary,Age,City
+101,Ravi,IT,50000,24,Chennai
+102,Priya,HR,45000,26,Madurai
+103,,IT,52000,25,Coimbatore
+104,Arun,Finance,,29,Salem
+105,Ravi,IT,50000,24,Chennai
+105,Ravi,IT,50000,24,Chennai
+106,Divya,HR,47000,27,
+107,Kumar,Finance,60000,30,Erode
+108,Anu,IT,54000,26,Chennai
+109,Surya,Marketing,48000,28,Trichy
